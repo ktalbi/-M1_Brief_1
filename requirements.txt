@@ -1,0 +1,8 @@
+pyplot
+pandas
+matplotlib 
+scikitlearn
+tensorflow
+loguru
+pytest
+mlflow
